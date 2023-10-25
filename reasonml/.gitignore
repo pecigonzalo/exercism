@@ -1,0 +1,13 @@
+### Reasonml
+bin/configlet
+bin/configlet.exe
+**/lib/
+**/node_modules
+**/*.bs.js
+.merlin
+.bsb.lock
+tmp
+
+### Esy
+.esy-bash-path
+**/_esy/
